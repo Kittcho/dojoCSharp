@@ -1,3 +1,6 @@
+Números romanos
+Dificultad - Fácil.
+
 Descripción del problema
 Los romanos eran un grupo inteligente. Ellos conquistaron la mayor parte de Europa y la gobernaron durante cientos de años. Inventaron caminos de hormigón y rectos e incluso bikinis [1] . Una cosa que nunca descubrieron fue el número cero. Esto hizo que escribir y fechar extensas historias de sus hazañas fuera un poco más desafiante, pero el sistema de números que crearon todavía está en uso hoy en día. Por ejemplo, la BBC usa números romanos para fechar sus programas.
 
