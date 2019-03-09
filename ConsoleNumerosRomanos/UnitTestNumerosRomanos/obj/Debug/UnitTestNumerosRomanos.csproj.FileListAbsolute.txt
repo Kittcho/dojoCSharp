@@ -1,0 +1,7 @@
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\UnitTestNumerosRomanos\obj\Debug\UnitTestNumerosRomanos.csprojResolveAssemblyReference.cache
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\UnitTestNumerosRomanos\bin\Debug\UnitTestNumerosRomanos.dll
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\UnitTestNumerosRomanos\bin\Debug\UnitTestNumerosRomanos.pdb
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\UnitTestNumerosRomanos\bin\Debug\ConsoleNumerosRomanos.exe
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\UnitTestNumerosRomanos\bin\Debug\ConsoleNumerosRomanos.pdb
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\UnitTestNumerosRomanos\obj\Debug\UnitTestNumerosRomanos.dll
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\UnitTestNumerosRomanos\obj\Debug\UnitTestNumerosRomanos.pdb

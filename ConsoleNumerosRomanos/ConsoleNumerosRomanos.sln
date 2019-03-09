@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleNumerosRomanos", "ConsoleNumerosRomanos\ConsoleNumerosRomanos.csproj", "{356AC82E-0948-488B-ADC6-96E51229F5E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestNumerosRomanos", "UnitTestNumerosRomanos\UnitTestNumerosRomanos.csproj", "{80833742-3E18-4E93-9AD7-C11B929AA839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{356AC82E-0948-488B-ADC6-96E51229F5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356AC82E-0948-488B-ADC6-96E51229F5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356AC82E-0948-488B-ADC6-96E51229F5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356AC82E-0948-488B-ADC6-96E51229F5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80833742-3E18-4E93-9AD7-C11B929AA839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80833742-3E18-4E93-9AD7-C11B929AA839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80833742-3E18-4E93-9AD7-C11B929AA839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80833742-3E18-4E93-9AD7-C11B929AA839}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

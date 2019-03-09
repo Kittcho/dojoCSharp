@@ -1,0 +1,6 @@
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\ConsoleNumerosRomanos\bin\Debug\ConsoleNumerosRomanos.exe.config
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\ConsoleNumerosRomanos\bin\Debug\ConsoleNumerosRomanos.exe
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\ConsoleNumerosRomanos\bin\Debug\ConsoleNumerosRomanos.pdb
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\ConsoleNumerosRomanos\obj\Debug\ConsoleNumerosRomanos.csprojResolveAssemblyReference.cache
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\ConsoleNumerosRomanos\obj\Debug\ConsoleNumerosRomanos.exe
+c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\ConsoleNumerosRomanos\obj\Debug\ConsoleNumerosRomanos.pdb
