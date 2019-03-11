@@ -4,3 +4,6 @@ c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\Con
 c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\ConsoleNumerosRomanos\obj\Debug\ConsoleNumerosRomanos.csprojResolveAssemblyReference.cache
 c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\ConsoleNumerosRomanos\obj\Debug\ConsoleNumerosRomanos.exe
 c:\users\alberto\documents\visual studio 2013\Projects\ConsoleNumerosRomanos\ConsoleNumerosRomanos\obj\Debug\ConsoleNumerosRomanos.pdb
+C:\Users\Alberto\Documents\GitHub\dojoCSharp\ConsoleNumerosRomanos\ConsoleNumerosRomanos\bin\Debug\ConsoleNumerosRomanos.exe.config
+C:\Users\Alberto\Documents\GitHub\dojoCSharp\ConsoleNumerosRomanos\ConsoleNumerosRomanos\obj\Debug\ConsoleNumerosRomanos.exe
+C:\Users\Alberto\Documents\GitHub\dojoCSharp\ConsoleNumerosRomanos\ConsoleNumerosRomanos\obj\Debug\ConsoleNumerosRomanos.pdb
