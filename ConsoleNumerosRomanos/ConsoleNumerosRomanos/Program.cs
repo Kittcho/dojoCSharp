@@ -15,7 +15,7 @@ namespace ConsoleNumerosRomanos
             bool continuar = true;
             string saltoLinea = string.Empty;
             string resp;
-            CNumeroRomano romano;
+            CTiposNumeros romano;
             do
             {
                 Console.WriteLine(saltoLinea + "Números romanos por rango.....");
@@ -35,11 +35,11 @@ namespace ConsoleNumerosRomanos
 
                     if (continuar)
                     {
-                        romano = new CNumeroRomano();
+                        romano = new CTiposNumeros();
                         for (int i = numeroInicial; i <= numeroFinal; i++)
                         {
                             int num = i;
-                            Console.WriteLine("Número = {0}\tRomano = {1}",i, romano.ImprimeRomano(ref num));
+                            Console.WriteLine("Número = {0}\tRomano = {1}",i, romano.ConvierteARomano(ref num));
                         }
                     }
                 }
